@@ -180,8 +180,10 @@ const Home: NextPage = () => {
       <section className="section-container my-20">
         <div className="section-container">
           <p className="section-content">
-            This site is made by{" "}
-            <Link href="https://github.com/YoheiKo">YoheiKo</Link>
+            This site was created by{" "}
+            <Link href="https://github.com/YoheiKo">
+              YoheiKo using Tailwind and Next.js.
+            </Link>
           </p>
           <p className="section-content">
             The content of this site do not have backend features. Full credit
