@@ -10,7 +10,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Ckipboard Website</title>
+        <title>Clipboard Website</title>
       </Head>
       {/* Hero Section */}
       <section id="hero">
