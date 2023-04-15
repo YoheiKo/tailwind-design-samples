@@ -179,6 +179,7 @@ const Home: NextPage = () => {
       {/* Credentials */}
       <section className="section-container my-20">
         <div className="section-container">
+          <h3 className="">Author</h3>
           <p className="section-content">
             This site was created by{" "}
             <Link href="https://github.com/YoheiKo">
